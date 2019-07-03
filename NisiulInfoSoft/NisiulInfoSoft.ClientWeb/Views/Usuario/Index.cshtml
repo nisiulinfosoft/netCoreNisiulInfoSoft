@@ -1,0 +1,56 @@
+﻿@model IEnumerable<NisiulInfoSoft.DTO.UsuarioDTO>
+
+@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Listado de usuarios</h1>
+
+<p>
+    <a asp-action="Editar">Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Código
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usuario)
+            </th>
+            <th>
+                Contraseña
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdUsu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Usuario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Contrasenia)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Estado)*@
+                    @(item.Estado == true ? "Activo" : "Inactivo")
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { id = item.IdUsu }) |
+                    @Html.ActionLink("Detalle", "Detalle", new { id = item.IdUsu }) |
+                    @Html.ActionLink("Eliminar", "Eliminar", new { id = item.IdUsu })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

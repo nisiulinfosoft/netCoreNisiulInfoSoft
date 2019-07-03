@@ -1,0 +1,55 @@
+﻿@model NisiulInfoSoft.DTO.AreaDTO
+
+@{
+    ViewData["Title"] = "Editar";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.IdAre == 0)
+{
+    <h1>Nueva área</h1>
+}
+else
+{
+    <h1>Editar área: @Model.Descripcion</h1>
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Grabar" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Código</label>
+                <input asp-for="IdAre" class="form-control" readonly="readonly" />
+                <span asp-validation-for="IdAre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Descripción</label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Observación</label>
+                <input asp-for="Observacion" class="form-control" />
+                <span asp-validation-for="Observacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                @Html.DropDownListFor(model => model.Estado, new SelectList(ViewBag.listItemsEstados, "Value", "Text"), "Seleccionar", htmlAttributes: new { @class = "form-control" })
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

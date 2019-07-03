@@ -1,0 +1,68 @@
+﻿@model NisiulInfoSoft.DTO.UsuarioDTO
+
+@{
+    ViewData["Title"] = "Editar";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.IdUsu == 0)
+{
+    <h1>Nuevo usuario</h1>
+}
+else
+{
+    <h1>Editar usuario: @Model.Usuario</h1>
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Grabar" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Código</label>
+                <input asp-for="IdUsu" class="form-control" readonly="readonly" />
+                <span asp-validation-for="IdUsu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tipo usuario</label>
+                @*<input asp-for="IdTip" class="form-control" />*@
+                @Html.DropDownListFor(model => model.IdTip, new SelectList(ViewBag.listItemsTiposUsuarios, "Value", "Text"), "Seleccionar", htmlAttributes: new { @class = "form-control" })
+                <span asp-validation-for="IdTip" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Personal</label>
+                @*<input asp-for="IdPer" class="form-control" />*@
+                @Html.DropDownListFor(model => model.IdPer, new SelectList(ViewBag.listItemsPersonal, "Value", "Text"), "Seleccionar", htmlAttributes: new { @class = "form-control" })
+                <span asp-validation-for="IdPer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Usuario" class="control-label"></label>
+                <input asp-for="Usuario" class="form-control" />
+                <span asp-validation-for="Usuario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Contraseña</label>
+                <input asp-for="Contrasenia" class="form-control" />
+                <span asp-validation-for="Contrasenia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                @*<input asp-for="Estado" class="form-control" />*@
+                @Html.DropDownListFor(model => model.Estado, new SelectList(ViewBag.listItemsEstados, "Value", "Text"), "Seleccionar", htmlAttributes: new { @class = "form-control" })
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

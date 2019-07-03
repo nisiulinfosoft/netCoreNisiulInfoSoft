@@ -1,0 +1,55 @@
+﻿@model NisiulInfoSoft.DTO.UsuarioDTO
+
+@{
+    ViewData["Title"] = "Detalle";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detalle usuario: @Model.Usuario</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Código
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdUsu)
+        </dd>
+        <dt class="col-sm-2">
+            Tipo usuario
+        </dt>
+        <dd class="col-sm-10">
+            @ViewBag.tipoUsuario
+        </dd>
+        <dt class="col-sm-2">
+            Personal
+        </dt>
+        <dd class = "col-sm-10">
+            @ViewBag.personal
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Usuario)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Usuario)
+        </dd>
+        <dt class="col-sm-2">
+            Contraseña
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Contrasenia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd class="col-sm-10">
+            @*@Html.DisplayFor(model => model.Estado)*@
+            @(Model.Estado == true ? "Activo" : "Inactivo")
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.IdUsu }) |
+    <a asp-action="Index">Back to List</a>
+</div>

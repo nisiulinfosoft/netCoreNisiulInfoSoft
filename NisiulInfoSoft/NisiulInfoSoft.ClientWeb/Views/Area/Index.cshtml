@@ -1,0 +1,54 @@
+﻿@model IEnumerable<NisiulInfoSoft.DTO.AreaDTO>
+
+@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Listado de áreas</h1>
+
+<p>
+    <a asp-action="Editar">Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Código
+            </th>
+            <th>
+                Descripción
+            </th>
+            <th>
+                Observación
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacion)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Estado)*@
+                @(item.Estado == true ? "Activo" : "Inactivo")
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Editar", new { id=item.IdAre }) |
+                @Html.ActionLink("Eliminar", "Eliminar", new { id = item.IdAre })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

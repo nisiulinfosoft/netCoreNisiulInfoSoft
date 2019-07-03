@@ -1,0 +1,74 @@
+﻿@model IEnumerable<NisiulInfoSoft.DTO.PersonalDTO>
+
+@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Listado de personal</h1>
+
+<p>
+    <a asp-action="Editar">Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Código
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                Apellido paterno
+            </th>
+            <th>
+                Apellido materno
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sexo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdPer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dni)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ApellidoPaterno)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ApellidoMaterno)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sexo)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Estado)*@
+                    @(item.Estado == true ? "Activo" : "Inactivo")
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { id = item.IdPer }) |
+                    @Html.ActionLink("Detalle", "Detalle", new { id = item.IdPer }) |
+                    @Html.ActionLink("Eliminar", "Eliminar", new { id = item.IdPer })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
