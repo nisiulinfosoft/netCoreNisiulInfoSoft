@@ -1,0 +1,11 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\bin\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\bin\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.runtimeconfig.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\bin\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.runtimeconfig.dev.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\bin\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\obj\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\obj\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\obj\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\obj\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\bin\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\obj\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfosoft.EF.CodeFirst\obj\Debug\netcoreapp2.1\NisiulInfosoft.EF.CodeFirst.pdb
