@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NisiulInfoSoft.Context\NisiulInfoSoft.Context.csproj" />
+    <ProjectReference Include="..\NisiulInfoSoft.DTO\NisiulInfoSoft.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.Context.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.Context.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.csproj.CopyComplete
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Repository\obj\Debug\netcoreapp2.1\NisiulInfoSoft.Repository.pdb
