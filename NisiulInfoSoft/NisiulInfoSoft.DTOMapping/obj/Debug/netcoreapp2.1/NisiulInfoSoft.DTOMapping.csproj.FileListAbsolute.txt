@@ -1,0 +1,12 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.csproj.CopyComplete
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTOMapping\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTOMapping.pdb

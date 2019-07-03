@@ -1,0 +1,9 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\bin\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.DTO\obj\Debug\netcoreapp2.1\NisiulInfoSoft.DTO.csprojAssemblyReference.cache
