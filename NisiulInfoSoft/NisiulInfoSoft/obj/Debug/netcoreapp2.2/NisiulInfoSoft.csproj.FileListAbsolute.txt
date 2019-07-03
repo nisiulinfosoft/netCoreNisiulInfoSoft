@@ -1,0 +1,14 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\bin\Debug\netcoreapp2.2\NisiulInfoSoft.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\bin\Debug\netcoreapp2.2\NisiulInfoSoft.runtimeconfig.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\bin\Debug\netcoreapp2.2\NisiulInfoSoft.runtimeconfig.dev.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\bin\Debug\netcoreapp2.2\NisiulInfoSoft.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\bin\Debug\netcoreapp2.2\NisiulInfoSoft.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.RazorAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.RazorAssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.RazorTargetAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft\obj\Debug\netcoreapp2.2\NisiulInfoSoft.pdb
