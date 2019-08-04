@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: galaxynginx
+spec:
+  selector:
+    matchLabels:
+      app: galaxynginx
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: galaxynginx
+    spec:
+      containers:
+      - name: galaxynginx
+        image: nisiulinfosoft/galaxynginx:2.0.0
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8085
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: galaxynginx
+  labels:
+    app: galaxynginx
+spec:
+  ports:
+    - port: 8095
+      protocol: TCP
+      targetPort: 8085
+      name: http-traffic
+  selector:
+    app: galaxynginx
+  type: LoadBalancer
