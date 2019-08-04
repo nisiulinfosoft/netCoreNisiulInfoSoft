@@ -1,0 +1,34 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.runtimeconfig.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.runtimeconfig.dev.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.RazorAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.RazorAssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.RazorTargetAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.csproj.CopyComplete
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.deps.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.runtimeconfig.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.runtimeconfig.dev.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.csprojAssemblyReference.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.csproj.CoreCompileInputs.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.RazorAssemblyInfo.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.RazorAssemblyInfo.cs
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.AssemblyInfoInputs.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.AssemblyInfo.cs
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.RazorTargetAssemblyInfo.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.csproj.CopyComplete
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.API.Microservicios\obj\Debug\netcoreapp2.2\NisiulInfoSoft.API.Microservicios.pdb
