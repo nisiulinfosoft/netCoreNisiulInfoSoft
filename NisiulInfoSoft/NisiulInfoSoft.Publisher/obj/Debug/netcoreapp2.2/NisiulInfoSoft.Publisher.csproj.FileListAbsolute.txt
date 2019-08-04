@@ -1,0 +1,34 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.runtimeconfig.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.runtimeconfig.dev.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.RazorAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.RazorAssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.RazorTargetAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.csproj.CopyComplete
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.deps.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.runtimeconfig.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.runtimeconfig.dev.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\bin\Debug\netcoreapp2.2\NisiulInfoSoft.DTO.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.csprojAssemblyReference.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.csproj.CoreCompileInputs.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.RazorAssemblyInfo.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.RazorAssemblyInfo.cs
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.AssemblyInfoInputs.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.AssemblyInfo.cs
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.RazorTargetAssemblyInfo.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.csproj.CopyComplete
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Publisher\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Publisher.pdb

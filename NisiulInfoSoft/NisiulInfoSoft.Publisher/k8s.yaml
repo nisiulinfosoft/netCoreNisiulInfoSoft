@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: galaxypublicador
+spec:
+  selector:
+    matchLabels:
+      app: galaxypublicador
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: galaxypublicador
+    spec:
+      containers:
+      - name: galaxypublicador
+        env:
+        - name: BusUrl
+          value: "Endpoint=sb://busgalaxylema.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nMmVHcnIqrHgD6e1P/RPGHtMyGBtPKysZkbNMqz3JMY="
+        - name: BusTopic
+          value: enviapedido
+        - name: Urlidentity
+          value: http://galaxyseguridad:8080/
+        - name: ApiName
+          value: api1
+        image: nisiulinfosoft/galaxypublicador:2.0.0
+        imagePullPolicy: Always        
+        ports:
+        - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: galaxypublicador
+  labels:
+    app: galaxypublicador
+spec:
+  ports:
+    - port: 8080
+      protocol: TCP
+      targetPort: 8080
+      name: http-traffic
+  selector:
+    app: galaxypublicador
+  type: LoadBalancer
