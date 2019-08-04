@@ -1,0 +1,14 @@
+﻿===POSTMAN
+
+===URL
+
+http://localhost:53787/.well-known/openid-configuration
+        
+===PARAMETROS
+
+[{"key":"grant_type","value":"password","description":"","type":"text","enabled":true},
+{"key":"client_id","value":"client","description":"","type":"text","enabled":true},
+{"key":"client_secret","value":"secret","description":"","type":"text","enabled":true},
+{"key":"scope","value":"api1","description":"","type":"text","enabled":true},
+{"key":"username","value":"alice","description":"","type":"text","enabled":true},
+{"key":"password","value":"password","description":"","type":"text","enabled":true}]

@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: galaxyseguridad
+spec:
+  selector:
+    matchLabels:
+      app: galaxyseguridad
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: galaxyseguridad
+    spec:
+      containers:
+      - name: galaxyseguridad
+        image: nisiulinfosoft/galaxyseguridad:2.0.0
+        imagePullPolicy: Always        
+        ports:
+        - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: galaxyseguridad
+  labels:
+    app: galaxyseguridad
+spec:
+  ports:
+    - port: 8080
+      protocol: TCP
+      targetPort: 8080
+      name: http-traffic
+  selector:
+    app: galaxyseguridad
+  type: LoadBalancer

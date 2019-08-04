@@ -1,0 +1,28 @@
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.deps.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.runtimeconfig.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.runtimeconfig.dev.json
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.csprojAssemblyReference.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.csproj.CoreCompileInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.RazorAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.RazorAssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.AssemblyInfoInputs.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.AssemblyInfo.cs
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.RazorTargetAssemblyInfo.cache
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.pdb
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.dll
+G:\LMAZA\DESARROLLO\VISUAL_STUDIO\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.deps.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.runtimeconfig.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.runtimeconfig.dev.json
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\bin\Debug\netcoreapp2.2\NisiulInfoSoft.Security.pdb
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.csprojAssemblyReference.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.csproj.CoreCompileInputs.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.RazorAssemblyInfo.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.RazorAssemblyInfo.cs
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.AssemblyInfoInputs.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.AssemblyInfo.cs
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.RazorTargetAssemblyInfo.cache
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.dll
+D:\LMAZA_MICROSERVICIOS_NET_CORE_S04\PROYECTO NISIULINFOSOFT\NisiulInfoSoft\NisiulInfoSoft.Security\obj\Debug\netcoreapp2.2\NisiulInfoSoft.Security.pdb
